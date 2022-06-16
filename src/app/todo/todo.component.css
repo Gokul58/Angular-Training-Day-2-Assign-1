@@ -1,0 +1,43 @@
+table , th , td{
+    border: 1px solid black;
+    margin:auto;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 5px;
+    width: 60%;
+}
+
+input{
+    display:block;
+    margin:auto;
+    padding: 10px;
+    font-size: 20px;
+    width: 20%;
+}
+
+select{
+    display:block;
+    margin:auto;
+    padding: 5px;
+    font-size: 20px;
+    width: 20%;
+}
+
+button{
+    display:block;
+    margin:auto;
+    margin-top: 15px;
+    font-size: 20px; 
+}
+
+.notstarted {
+    background-color: red;
+  }
+  
+  .progress {
+    background-color: yellow;
+  }
+  
+  .completed {
+    background-color: green;
+  }
